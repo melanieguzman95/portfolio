@@ -1,5 +1,4 @@
-# **Melanie Guzman Lopez**  
-### **Data Analyst**  
+# **Data Analyst**  
 
 ---
 
@@ -12,11 +11,11 @@ With a strong foundation in **leadership**, **problem-solving**, and the technic
 ---
 
 ## **Education & Certifications**  
-- **Data Science** | Codeop, Barcelona, Spain | *Expected April 2025*  
-- **Data Analytics** | Codeop, Barcelona, Spain | *December 2024*  
-- **Bachelor of Arts, Psychology** | University of California, Santa Barbara | *March 2018*  
-- **Project Management Professional (PMP)** | PMI  
-- **APMP Bid and Proposal Management Foundation**  
+ **Data Science** | Codeop, Barcelona, Spain | *Expected April 2025*  
+ **Data Analytics** | Codeop, Barcelona, Spain | *December 2024*  
+ **Bachelor of Arts, Psychology** | University of California, Santa Barbara | *March 2018*  
+ **Project Management Professional (PMP)** | PMI  
+ **APMP Bid and Proposal Management Foundation**  
 
 ---
 
