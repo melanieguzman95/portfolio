@@ -29,21 +29,21 @@ With a strong foundation in **leadership**, **problem-solving**, and the technic
 
 ## **Projects**  
 ### **1. FEMA Disaster Shelter Analysis**  
-- Conducted an exploratory data analysis (EDA) on emergency shelter capabilities to identify gaps and recommend resource optimization strategies.  
+- Conducted an exploratory data analysis (EDA) to examine trends in disaster declarations and public assistance funding. The analysis identifies key disaster types, funding distribution, and the states receiving the most federal assistance.  
 - **Tools**: Python, Pandas, Tableau  
-- **Key Insight**: Improved understanding of shelter preparedness for extreme weather events. 
+- **Key Insight**: Funding Distribution Across Disaster Types, Funding Distribution Across Disaster Types and  Seasonal Disaster Trends.
 - **GitHub Repository**:  
 [FEMA Funding Exploratory Data Analysis](https://github.com/melanieguzman95/FEMA_Funding_EDA)  
 
 ### **2. Bay Wheels Bike Share Analysis**  
-- Analyzed bike-share usage patterns across **San Francisco** and **New York City** to uncover trends in rider behavior and station performance.  
+- Analyzed bike-share usage patterns across **San Francisco** to uncover trends in rider behavior and station performance.  
 - **Tools**: Python, SQL, Tableau  
 - **Key Insight**: Identified peak usage times and opportunities for service improvement.
 - **GitHub Repository**:  
 [https://github.com/melanieguzman95/Bay_Wheels_EDA.git](https://github.com/melanieguzman95/Bay_Wheels_EDA.git)    
 
 ### **3. Childcare Funding in the UK**  
-- Analyzed funding distribution for disadvantaged groups receiving the 15-hour entitlement.  
+- Analyzed early childhood education and childcare trends in England between 2018 and 2024. The goal is to evaluate enrollment patterns, funding for disadvantaged children, and the impact of the pandemic on childcare registrations.  
 - **Tools**: Python, Pandas, Seaborn  
 - **Key Insight**: Highlighted regional disparities in additional funding and provided insights for policy improvements.
 - **GitHub Repository**:  
