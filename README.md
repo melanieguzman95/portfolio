@@ -33,7 +33,7 @@ With a strong foundation in **leadership**, **problem-solving**, and the technic
 - **Tools**: Python, Pandas, Tableau  
 - **Key Insight**: Improved understanding of shelter preparedness for extreme weather events. 
 - **GitHub Repository**:  
-[FEMA Funding Exploratory Data Analysis](https://nbviewer.org/github/melanieguzman95/FEMA_Funding_EDA/blob/main/notebooks/FEMA_EDA.ipynb](https://github.com/melanieguzman95/FEMA_Funding_EDA)  
+[FEMA Funding Exploratory Data Analysis](https://github.com/melanieguzman95/FEMA_Funding_EDA)  
 
 ### **2. Bay Wheels Bike Share Analysis**  
 - Analyzed bike-share usage patterns across **San Francisco** and **New York City** to uncover trends in rider behavior and station performance.  
