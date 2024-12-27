@@ -28,12 +28,12 @@ With a strong foundation in **leadership**, **problem-solving**, and the technic
 ---
 
 ## **Projects**  
-### **1. FEMA Disaster Shelter Analysis**  
+### **1. FEMA Disaster Decleration Funding Analysis**  
 - Conducted an exploratory data analysis (EDA) to examine trends in disaster declarations and public assistance funding. The analysis identifies key disaster types, funding distribution, and the states receiving the most federal assistance.  
-- **Tools**: Python, Pandas, Tableau  
+- **Tools**: Python, Pandas, Jupiter Notebook
 - **Key Insight**: Funding Distribution Across Disaster Types, Funding Distribution Across Disaster Types and  Seasonal Disaster Trends.
 - **GitHub Repository**:  
-[FEMA Funding Exploratory Data Analysis](https://nbviewer.org/github/melanieguzman95/FEMA_Funding_EDA/blob/main/notebooks/FEMA_EDA.ipynb))  
+[FEMA Funding Data Analysis](https://nbviewer.org/github/melanieguzman95/FEMA_Funding_EDA/blob/main/notebooks/FEMA_EDA.ipynb))  
 
 ### **2. Bay Wheels Bike Share Analysis**  
 - Analyzed bike-share usage patterns across **San Francisco** to uncover trends in rider behavior and station performance.  
