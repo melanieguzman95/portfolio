@@ -33,21 +33,21 @@ With a strong foundation in **leadership**, **problem-solving**, and the technic
 - **Tools**: Python, Pandas, Jupiter Notebook
 - **Key Insight**: Funding Distribution Across Disaster Types, Funding Distribution Across Disaster Types and  Seasonal Disaster Trends.
 - **GitHub Repository**:  
-[FEMA Funding Data Analysis](https://nbviewer.org/github/melanieguzman95/FEMA_Funding_EDA/blob/main/notebooks/FEMA_EDA.ipynb))  
+[FEMA Funding Data Analysis](https://nbviewer.org/github/melanieguzman95/FEMA_Funding_EDA/blob/main/notebooks/FEMA_EDA.ipynb)  
 
 ### **2. Bay Wheels Bike Share Analysis**  
 - Analyzed bike-share usage patterns across **San Francisco** to uncover trends in rider behavior and station performance.  
 - **Tools**: Python, SQL, Tableau  
 - **Key Insight**: Identified peak usage times and opportunities for service improvement.
 - **GitHub Repository**:  
-[https://github.com/melanieguzman95/Bay_Wheels_EDA.git](https://github.com/melanieguzman95/Bay_Wheels_EDA.git)    
+  [Bay_Wheels_Bike Share Analysis](https://github.com/melanieguzman95/Bay_Wheels_EDA.git)    
 
 ### **3. Childcare Funding in the UK**  
 - Analyzed early childhood education and childcare trends in England between 2018 and 2024. The goal is to evaluate enrollment patterns, funding for disadvantaged children, and the impact of the pandemic on childcare registrations.  
 - **Tools**: Python, Pandas, Seaborn  
 - **Key Insight**: Highlighted regional disparities in additional funding and provided insights for policy improvements.
 - **GitHub Repository**:  
-[https://github.com/melanieguzman95/Early_Childhood_Education.git](https://github.com/melanieguzman95/Early_Childhood_Education.git)    
+[Childcare Funding Analysis](https://github.com/melanieguzman95/Early_Childhood_Education.git)    
 
 ---
 
