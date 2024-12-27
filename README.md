@@ -28,7 +28,7 @@ With a strong foundation in **leadership**, **problem-solving**, and the technic
 ---
 
 ## **Projects**  
-### **1. FEMA Disaster Decleration Funding Analysis**  
+### **1. FEMA Disaster Declaration Funding Analysis**  
 - Conducted an exploratory data analysis (EDA) to examine trends in disaster declarations and public assistance funding. The analysis identifies key disaster types, funding distribution, and the states receiving the most federal assistance.  
 - **Tools**: Python, Pandas, Jupiter Notebook
 - **Key Insight**: Funding Distribution Across Disaster Types, Funding Distribution Across Disaster Types and  Seasonal Disaster Trends.
